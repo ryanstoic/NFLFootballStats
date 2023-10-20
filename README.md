@@ -1,6 +1,6 @@
 # NFLFootballStats
 
-Fantasy football owners and football enthusiasts need weekly NFL player stats to follow the the top players in the league. I discovered CBSSports hosts NFL stats in a table which can easily be scraped into a spreadsheet. Follow instructions below to get started. See **_Examples_** folder if you want to see the data retrieved 
+Fantasy football owners and football enthusiasts need weekly NFL player stats to follow the the top players in the league. I discovered CBSSports hosts NFL stats in a table which can easily be scraped into a spreadsheet. Follow instructions below to get started. See **Examples** folder if you want to see the data retrieved 
 
 # Get Started
 
